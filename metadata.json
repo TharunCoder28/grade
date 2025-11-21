@@ -1,0 +1,5 @@
+{
+  "name": "SKP Grade Analyzer",
+  "description": "A client-side result analysis tool with parsing for PDF/Excel/CSV, generating student reports with a modern neon glassmorphism UI.",
+  "requestFramePermissions": []
+}
